@@ -1,0 +1,10 @@
+- insert:
+    - id: dsh-android-webview-bridge
+      name: '@local/dsh-android-webview-bridge'
+      config:
+        forwardedHostEvents: [api-session/status, api-session/activity, api-session/added]
+        forwardedClientEvents: [connection/reset, theme/change, locale/change]
+        bridgeObjectName: DSHAndroidBridge
+        receiveFunctionName: DSHAndroidBridgeReceive
+        pollTimeoutMs: 25000
+        forwardAssistantMessages: true

@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Android WebView 事件桥",
+    "description": "把 DeepSeek Harness 的事件转发给 Android WebView 宿主应用，并接收来自它的事件。"
+  }
+}

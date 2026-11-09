@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Android WebView bridge">
+  <rect x="4" y="14" width="20" height="36" rx="4" fill="none" stroke="#3ddc84" stroke-width="3" />
+  <rect x="40" y="10" width="20" height="44" rx="4" fill="none" stroke="#4c8dff" stroke-width="3" />
+  <circle cx="14" cy="44" r="2" fill="#3ddc84" />
+  <path d="M25 26h14" fill="none" stroke="#9aa4b2" stroke-width="3" stroke-linecap="round" />
+  <path d="M35.5 22l4 4-4 4" fill="none" stroke="#9aa4b2" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+  <path d="M39 38H25" fill="none" stroke="#9aa4b2" stroke-width="3" stroke-linecap="round" />
+  <path d="M28.5 34l-4 4 4 4" fill="none" stroke="#9aa4b2" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+</svg>

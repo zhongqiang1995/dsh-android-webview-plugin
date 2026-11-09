@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Android WebView bridge",
+    "description": "Relays DeepSeek Harness events to an Android WebView host app and accepts events back from it."
+  }
+}
